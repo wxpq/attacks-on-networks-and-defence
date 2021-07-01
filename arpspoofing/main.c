@@ -1,3 +1,4 @@
+//written by noob0x
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -86,3 +87,4 @@ int main() {
   }
   return 0;
 }
+//written by noob0x
