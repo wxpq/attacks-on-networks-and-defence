@@ -314,3 +314,4 @@ void stop_worker(APP* app,char* selector){
     }
     printf("thread stopped\n");
 }
+//written by noob0x
